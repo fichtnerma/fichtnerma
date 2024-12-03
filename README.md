@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hello there 👋
+### I'm Markus | Fullstack Software Engineer
 
+- ⚙️ I have worked with: .tsx, .ts, .html, .scss, .rs, .java, .py, .sql
+- 🌱 I’m always trying to learn new things
 <!--
 **fichtnerma/fichtnerma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
